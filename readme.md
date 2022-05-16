@@ -1,0 +1,1 @@
+This is an assignment from The Odin Project for a basic website that will consist oof an index page and links to a few recipes.
